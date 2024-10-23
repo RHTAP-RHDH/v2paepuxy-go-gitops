@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: v2paepuxy-go-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/v2paepuxy-go
